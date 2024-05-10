@@ -1,3 +1,4 @@
+![](https://github.com/RominaPrestupa/Alkemy_ProyectoFinal/blob/master/static/imagenes/alk1.png)
 # IT Bootcamp POO Python 
 
 ### Trabajo integrador: Sistema de Gestión de personas
